@@ -6,7 +6,7 @@
 
     <groupId>org.smartx</groupId>
     <artifactId>redis-template</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <distributionManagement>
         <repository>
@@ -25,7 +25,7 @@
     <properties>
         <spring.version>4.3.7.RELEASE</spring.version>
         <jedis.version>2.9.0</jedis.version>
-        <commons.version>1.0-SNAPSHOT</commons.version>
+        <commons.version>1.0</commons.version>
         <jdk.version>1.8</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
